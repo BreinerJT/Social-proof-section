@@ -11316,6 +11316,7 @@ header h1 {
 }
 header p {
   color: hsl(300deg, 43%, 22%);
+  font-weight: 500;
 }
 
 .rating-section {
